@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>275706024536-7kuueptghgmaa11kcqre864ohsrkk0eh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.275706024536-7kuueptghgmaa11kcqre864ohsrkk0eh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATmks3ZgIawRd7aX68LDdScFqLbCFvlHc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>275706024536</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>lrtechs.ios.PaintShare</string>
+	<key>PROJECT_ID</key>
+	<string>paintshare-348304</string>
+	<key>STORAGE_BUCKET</key>
+	<string>paintshare-348304.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:275706024536:ios:9302cbaa9da371a1f0b02d</string>
+</dict>
+</plist>
